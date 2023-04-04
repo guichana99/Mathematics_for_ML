@@ -7,4 +7,4 @@ This repository is for studying Mathematics for Machine Learning course(by Imper
 2. Multivariate Calculus
 3. PCA(Principal Component Analysis)
 
-I am planning to upload quizzes, assignments, and additional information and code while listening to this lecture.
+I am planning to upload quizzes(only answers in .jpg or .png), assignments, and additional information and code while listening to this lecture.
